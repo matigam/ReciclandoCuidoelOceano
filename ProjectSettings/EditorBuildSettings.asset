@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: d3fe6bc516746184f8206657c3999cf7
+  - enabled: 1
+    path: Assets/Scenes/MenuActividades.unity
+    guid: 42917ddeec157b745b31dac9d78f907f
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 90f109602c3c5fe43a3edfa95a8338c2
+  - enabled: 1
+    path: Assets/Scenes/Actividad_3/Instruccion_1_act_3.unity
+    guid: af279997c2be8194a8267b6512184336
+  - enabled: 1
+    path: Assets/Scenes/Actividad_1/Instruccion_1_act_1.unity
+    guid: 517db5b97072a234c92e4aa0a0aec859
+  - enabled: 1
+    path: Assets/Scenes/Actividad_1/Instruccion_2_act_1.unity
+    guid: e1e1382f0c7f4014e9b8fb79605d3fd6
+  - enabled: 1
+    path: Assets/Scenes/Actividad_1/Actividad_1.unity
+    guid: 2b8c7ce0d53b87c4bba61026e63d6f4d
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/Actividad_2.unity
+    guid: 3177139761cf06947b11e4babb8d5495
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/Actividad_2_botella.unity
+    guid: 637560f945b42d14bac4bade06991861
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/Actividad_2_lata.unity
+    guid: d570a086b1ebd9546bb82b1c145b567d
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/Actividad_2_moneda.unity
+    guid: c71ebff69bd07844a8afcfdc169e11c3
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/buen_trabajo.unity
+    guid: 893361b5500969241bb9147d6372bd9f
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/seleccion_act_2_botella.unity
+    guid: bf6eceb2b2811cb4eafcde67608d1931
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/seleccion_act_2_estrella.unity
+    guid: 83ce9d4ae0eb90b44a27ff1c13d67bb7
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/seleccion_act_2_lata.unity
+    guid: 428bea3ff242bd14d9bd70d17ffef4d9
+  - enabled: 1
+    path: Assets/Scenes/Actividad_2/seleccion_act_2_moneda.unity
+    guid: f35a84cbacf082a41b415fb04ee93f68
+  - enabled: 1
+    path: Assets/Scenes/Actividad_3/Actividad_3.unity
+    guid: 5cdc8b141f9baa04d89eab7435601ae0
+  - enabled: 1
+    path: Assets/Scenes/Actividad_3/Actividad_3_carton.unity
+    guid: 4edcdf1c147d4544b94c249e523c6ae8
+  - enabled: 1
+    path: Assets/Scenes/Actividad_3/Actividad_3_plastico.unity
+    guid: 765927134a102894ab94b464020ab494
+  - enabled: 1
+    path: Assets/Scenes/Actividad_3/Actividad_3_vidrio.unity
+    guid: b6fcd0889994202459a2c4dd2ed682cd
+  - enabled: 1
+    path: Assets/Scenes/Scenes_muti/EnterName.unity
+    guid: 27f7ff0f3ded04a149466e2512573df8
+  - enabled: 1
+    path: Assets/Scenes/Scenes_muti/SingleGame.unity
+    guid: a6e5da5d8e9df4001901c4fcdaeeda48
+  - enabled: 1
+    path: Assets/Scenes/Scenes_muti/StepGame.unity
+    guid: 8915613ee35ee49859aabf134799a1ad
+  - enabled: 1
+    path: Assets/Scenes/Scenes_muti/StepLobby.unity
+    guid: 562d7ed9ca3254be09a20ec5ac2198fd
+  - enabled: 1
+    path: Assets/Scenes/CS_MyQuiz.unity
+    guid: 3d6d826784fc9724b9e4ccf5c71b3092
+  - enabled: 1
+    path: Assets/TQGAssets/CS_Assets/CS_Scenes/CS_StartMenu.unity
+    guid: a87944e446bc92647946a239356ce692
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 30e707b774142a1409045e847a4f3706
+  m_configObjects: {}
